@@ -165,6 +165,6 @@ Today, we'll explore **dictionaries**, a powerful and versatile data structure i
 * You are familiar with common dictionary operations for adding, modifying, and removing key-value pairs.
 * You know how to iterate through the keys, values, and key-value pairs of a dictionary using `for` loops and the `keys()`, `values()`, and `items()` methods.
 
-**Looking Ahead to [Day 7:](https://github.com/python/Day_7(python_basics).md)**
+**Looking Ahead to [Day 7:](https://github.com/tom-onion/python/blob/main/Day_7(python_basics).md)**
 
 Tomorrow, we will take a break from learning new data structures and focus on **functions**. Functions are reusable blocks of code that perform specific tasks, making your programs more organized, modular, and easier to maintain. Keep practicing with dictionaries!
