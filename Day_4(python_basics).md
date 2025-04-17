@@ -178,6 +178,6 @@ Today, we'll learn about loops, which are fundamental control flow structures th
 * You can use `break` to exit a loop prematurely and `continue` to skip the current iteration.
 * You understand the optional `else` clause in loops and when it is executed.
 
-**Looking Ahead to [Day 5:](https://github.com/python/Day_5(python_basics).md)**
+**Looking Ahead to [Day 5:](https://github.com/tom-onion/python/blob/main/Day_5(python_basics).md)**
 
 Tomorrow, we will introduce data structures like lists and tuples, which are essential for organizing and managing collections of data. You'll see how loops become even more powerful when working with these structures. Keep up the excellent progress!
