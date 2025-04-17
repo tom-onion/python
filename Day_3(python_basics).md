@@ -118,6 +118,6 @@ Today, we'll make our programs more interactive by learning how to get input fro
 * You can combine conditions using logical operators (`and`, `or`, `not`).
 * Indentation is crucial for defining code blocks in conditional statements.
 
-**Looking Ahead to [Day 4:](https://github.com/python/Day_4(python_basics).md)**
+**Looking Ahead to [Day 4:](https://github.com/tom-onion/python/blob/main/Day_2(python_basics).md)**
 
 Tomorrow, we will introduce the concept of loops (`for` and `while`) which allow you to repeat blocks of code multiple times. This will significantly expand the capabilities of your programs. Keep practicing!
