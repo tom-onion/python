@@ -139,6 +139,6 @@ Today, we'll dive into two fundamental data structures in Python: **lists** and 
 * You know the basic operations (concatenation, repetition) supported by both lists and tuples.
 * You understand the implications of immutability for tuples.
 
-**Looking Ahead to [Day 6:](https://github.com/tom-onion/python/blob/main/Day_2(python_basics).md)**
+**Looking Ahead to [Day 6:](https://github.com/tom-onion/python/blob/main/Day_6(python_basics).md)**
 
 Tomorrow, we will explore another important data structure: **dictionaries**. Dictionaries allow you to store data in key-value pairs, providing a more flexible way to organize and retrieve information based on meaningful keys. Keep practicing with lists and tuples!
