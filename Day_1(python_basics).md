@@ -85,6 +85,6 @@ Welcome to your Python journey! Day 1 is all about setting up your environment a
 * You know how to use the `print()` function to display output.
 * You have a basic understanding of variables and common data types (string, integer, float, boolean).
 
-**Looking Ahead to [Day 2:](https://github.com/python/Day_2(python_basics).md)**
+**Looking Ahead to [Day 2:]([https://github.com/python/Day_2(python_basics).md](https://github.com/tom-onion/python/blob/main/Day_2(python_basics).md))**
 
 Tomorrow, we will delve deeper into data types and learn about basic arithmetic operations in Python. Keep practicing, and don't hesitate to experiment with what you've learned today!
