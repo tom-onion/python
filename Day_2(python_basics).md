@@ -120,6 +120,6 @@ Today, we'll build upon the foundation of Day 1 by exploring data types in more 
 * Python follows the standard order of operations.
 * You can convert values between different data types using `str()`, `int()`, and `float()`.
 
-**Looking Ahead to [Day 3:](https://github.com/python/Day_3(python_basics).md)**
+**Looking Ahead to [Day 3:](https://github.com/tom-onion/python/blob/main/Day_3(python_basics).md)**
 
 Tomorrow, we will learn about how to take input from the user and introduce the fundamental concept of control flow using conditional statements (`if`, `elif`, `else`). Keep up the great work!
